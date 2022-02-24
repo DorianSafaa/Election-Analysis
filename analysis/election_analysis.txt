@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Election Results
 -------------------------
@@ -11,3 +12,10 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+=======
+Counties in the election
+-----------------------------
+Arapahoe
+Denver
+Jefferson
+>>>>>>> a3370759147e9451abaf9b653ec606404bbe6957
