@@ -7,15 +7,21 @@ The purpose of this analysis is to assist a Colorado board of elections employee
 ## Purpose
 
 Our purpose in this project is to find:
+
 •	Total number of votes cast
+
 •	A complete list of candidates who received votes
+
 •	Total number of votes each candidate received
+
 •	Percentage of votes each candidate won
+
 •	The winner of the election based on popular vote
 
 ## Resources
 
 •	Data Source: election_results.csv
+
 •	Software: Python 3.7, Visual Studio Code, 1.38.1
 
 ## Results
@@ -25,11 +31,12 @@ The analysis of the election show that:
 •	There were 369,711 votes cast in the election.
 
 •   County Votes:
-    -Jefferson: 10.5% (38,855)
+
+     o  Jefferson: 10.5% (38,855)
     
-    -Denver: 82.8% (306,055)
+     o  Denver: 82.8% (306,055)
     
-    -Arapahoe: 6.7% (24,801)
+     o  Arapahoe: 6.7% (24,801)
 
 • Largest County Turnout: Denver
 
