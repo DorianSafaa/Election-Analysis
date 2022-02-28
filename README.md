@@ -30,13 +30,13 @@ The analysis of the election show that:
 
 •	There were 369,711 votes cast in the election.
 
-•   County Votes:
+•   Counties voters turnout:
 
-     o  Jefferson: 10.5% (38,855)
+     o  Jefferson had 10.5% of voters, for a total of 38,855 voters.
     
-     o  Denver: 82.8% (306,055)
+     o  Denver had 82.8% of voters, for a total of 306,055 voters.
     
-     o  Arapahoe: 6.7% (24,801)
+     o  Arapahoe: had 6.7% of voters, for a total of 24,801 voters.
 
 • Largest County Turnout: Denver
 
@@ -60,5 +60,12 @@ The analysis of the election show that:
 •	The winner of the election was:
 
     o	Diana DeGette received 74% of the vote and 272,892 number of votes.
+    
+    
+ ## Summary
+ 
+ In summary, the code used in this analysis helped us to find the total number of votes, the total number of votes for each candidate in in each county, the percentage of votes each candidate received and in each county and finally the winner candidate and the largest county turnout. The code can be easily adjausted to do analysis for different types of elections (Federal,etc.). Also, candidates can benefit from the analysis to find out how they do in every county. This can help them focus on some counties more than other based on the total votes they received. 
+
+
 
 
