@@ -61,7 +61,8 @@ The analysis of the election show that:
 
     o	Diana DeGette received 74% of the vote and 272,892 number of votes.
     
-    
+![Capture](https://user-images.githubusercontent.com/66279829/155945037-f8c5f209-4071-44f9-92b1-0987f659057b.PNG)
+
  ## Summary
  
  In summary, the code used in this analysis helped us to find the total number of votes, the total number of votes for each candidate in in each county, the percentage of votes each candidate received and in each county and finally the winner candidate and the largest county turnout. The code can be easily adjausted to do analysis for different types of elections (Federal,etc.). Also, candidates can benefit from the analysis to find out how they do in every county. This can help them focus on some counties more than other based on the total votes they received. 
